@@ -19,5 +19,7 @@ class Dog
     @@names = []
   end 
   
+  def save 
+    
   
 end 
